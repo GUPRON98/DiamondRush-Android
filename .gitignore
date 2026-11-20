@@ -2,6 +2,8 @@ build/
 android.jar
 *.idsig
 *.unaligned.apk
-*.apk
 .DS_Store
 *.log
+
+# Allow official release APK
+!DiamondRush.apk

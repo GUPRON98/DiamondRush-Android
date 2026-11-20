@@ -2,6 +2,16 @@
 
 Porting Native Android mandiri untuk game klasik legendaris **Gameloft Diamond Rush** (J2ME QVGA 240x320) dengan runtime J2ME kustom berkinerja tinggi, kontrol sentuh Numpad petualang lengkap, bebas *flicker*, serta menu cheat bawaan.
 
+[![Download APK](https://img.shields.io/badge/Download-DiamondRush.apk-brightgreen?style=for-the-badge&logo=android)](https://github.com/GUPRON98/DiamondRush-Android/raw/main/DiamondRush.apk)
+
+---
+
+## 📥 Unduh Game (Download APK)
+
+Anda dapat langsung mengunduh file APK yang sudah jadi dan siap pasang:
+- **Download Langsung**: [DiamondRush.apk](https://github.com/GUPRON98/DiamondRush-Android/raw/main/DiamondRush.apk)
+- **Halaman Releases**: [GitHub Releases v1.0.0](https://github.com/GUPRON98/DiamondRush-Android/releases/tag/v1.0.0)
+
 ---
 
 ## ✨ Fitur Utama
