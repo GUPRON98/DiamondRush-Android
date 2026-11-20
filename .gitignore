@@ -1,0 +1,7 @@
+build/
+android.jar
+*.idsig
+*.unaligned.apk
+*.apk
+.DS_Store
+*.log
